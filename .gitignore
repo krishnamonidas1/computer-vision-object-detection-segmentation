@@ -1,0 +1,19 @@
+# Ignore virtual env
+venv/
+
+# Ignore YOLO repo
+yolov5/
+
+# Ignore datasets
+data/
+datasets/
+
+# Ignore outputs
+outputs/
+
+# Ignore models
+models/
+
+# Python cache
+__pycache__/
+*.pyc
