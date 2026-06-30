@@ -8,8 +8,6 @@ yolov5/
 data/
 datasets/
 
-# Ignore outputs
-outputs/
 
 # Ignore models
 models/
